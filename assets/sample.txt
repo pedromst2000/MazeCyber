@@ -1,0 +1,4 @@
+Will contain the following:
+- images 
+- svg
+- media (videos, gifs, audios, etc.)
